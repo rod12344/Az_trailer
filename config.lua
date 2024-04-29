@@ -1,7 +1,7 @@
 Config = {}
 
 Config.RefoundPrice = 250
-Config.FrameWork = "ESX" -- ESX or QBCore
+Config.FrameWork = "QBCore" -- ESX or QBCore
 
 Config.TrailerShop = {
     [1] ={
